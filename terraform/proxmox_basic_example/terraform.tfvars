@@ -1,0 +1,14 @@
+pm_api_url          = ""
+pm_api_token_id     = ""
+pm_api_token_secret = ""
+vm_name             = "terra-test01"
+disk_size           = 32
+ram_size            = 2048
+target_node         = "prox01"
+template_name       = "ubuntu-cloud-2404"
+storage_name        = "local-lvm"
+vm_ip               = ""
+gateway_ip          = ""
+dns_ip              = ""
+vm_user             = "ubuntu"
+ssh_key             = ""
